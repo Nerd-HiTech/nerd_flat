@@ -1,14 +1,19 @@
-Flat
+Nerd-Flat
 ====
-* Author: YoArts
-* Author URL: http://www.yoarts.com
-* Contributer: @yoarts, @ghost, @ashfame, @kevinpapst, @abovethewater
+* Author: Victor Perin
+* Author URL: http://www.nerdhitech.com.br
+* Contributer: @yoarts, @ghost, @ashfame, @kevinpapst, @abovethewater, @victor_perin
 * License: GNU General Public License v3.0
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Description
 ----
-Flat is a WordPress Blog Theme designed by YoArts. We would like to say that Flat is both beautiful and charming at the same time.
+Nerd-Flat is a WordPress Blog Theme designed by YoArts and modified by Victor Perin to focus more in pesonal blogs.
+I have developed it to focus in my own personal blog, but I want anyone could use it.
+
+If you want to help us develop this theme, fork it on github >> https://github.com/Nerd-HiTech/nerd_flat
+
+
 
 Features list
 ----
