@@ -806,7 +806,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/bordered-pulled.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/bordered-pulled.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -814,7 +814,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/bordered-pulled.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/bordered-pulled.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/bordered-pulled.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -825,7 +825,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/core.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/core.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -833,7 +833,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/core.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/core.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/core.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -844,7 +844,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/fixed-width.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/fixed-width.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -852,7 +852,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/fixed-width.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/fixed-width.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/fixed-width.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -863,7 +863,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/font-awesome.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/font-awesome.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -871,7 +871,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/font-awesome.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/font-awesome.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/font-awesome.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -882,7 +882,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/icons.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/icons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -890,7 +890,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/icons.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/icons.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/icons.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -901,7 +901,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/larger.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/larger.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -909,7 +909,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/larger.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/larger.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/larger.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -920,7 +920,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/list.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/list.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -928,7 +928,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/list.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/list.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/list.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -939,7 +939,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/mixins.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/mixins.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -947,7 +947,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/mixins.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/mixins.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/mixins.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -958,7 +958,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/path.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/path.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -966,7 +966,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/path.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/path.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/path.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -977,7 +977,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/rotated-flipped.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/rotated-flipped.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -985,7 +985,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/rotated-flipped.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/rotated-flipped.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/rotated-flipped.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -996,7 +996,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/spinning.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/spinning.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1004,7 +1004,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/spinning.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/spinning.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/spinning.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1015,7 +1015,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/stacked.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/stacked.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1023,7 +1023,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/stacked.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/stacked.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/stacked.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1034,7 +1034,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/assets\/less\/font-awesome-4.0.3\/variables.less": {
+	"\/assets\/less\/font-awesome-4.1.0\/variables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1042,7 +1042,7 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.0.3\/variables.less",
+		"inputAbbreviatedPath": "\/assets\/less\/font-awesome-4.1.0\/variables.less",
 		"outputAbbreviatedPath": "\/assets\/less\/css\/variables.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
