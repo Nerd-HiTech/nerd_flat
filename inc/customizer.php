@@ -351,7 +351,7 @@ function flat_logo() {
   $tagline = get_bloginfo( 'description' );
 
   echo '<h1 class="site-title '.$header_class.'"><a href="'.esc_url( home_url( '/' ) ).'" title="'.esc_attr( get_bloginfo( 'name', 'display' ) ).'" rel="home">';
-echo '<img class ="gravatar_logo" src="http://www.gravatar.com/avatar/46d0511f4495fbcced35ed48bb2c39d7?s=200" />';
+  echo get_avatar( get_settings('admin_email'), 200 );
   if ( $header_class != 'display-title' ) {
     echo '<img alt="'.esc_attr( get_bloginfo( 'name', 'display' ) ).'" src="'.$logo.'" />';
   }
