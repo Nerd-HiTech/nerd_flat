@@ -11,6 +11,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+<div id="background"></div>
 <div id="page">
 	<div class="container">
 		<div class="row row-offcanvas row-offcanvas-left">

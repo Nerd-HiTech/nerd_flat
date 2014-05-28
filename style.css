@@ -39,3 +39,24 @@ transform:rotate(-4deg) scale(1.05);
 -webkit-transform:rotate(-4deg) scale(1.05);
 
 }
+#background{
+position:fixed;
+z-index:-100;
+width:100%;
+height:100%;
+background:
+	-webkit-linear-gradient(45deg, hsl(211, 99%, 52%) 0%, transparent 70%),
+	-webkit-linear-gradient(135deg, hsl(227, 100%, 70%) 10%, transparent 80%),
+	-webkit-linear-gradient(225deg, hsl(186, 90%, 79%) 10%, transparent 80%),
+	-webkit-linear-gradient(315deg, hsl(199, 100%, 27%) 50%, transparent 100%);
+background:
+	-ms-linear-gradient(45deg, hsl(211, 99%, 52%) 0%, transparent 70%),
+	-ms-linear-gradient(135deg, hsl(227, 100%, 70%) 10%, transparent 80%),
+	-ms-linear-gradient(225deg, hsl(186, 90%, 79%) 10%, transparent 80%),
+	-ms-linear-gradient(315deg, hsl(199, 100%, 27%) 50%, transparent 100%);
+background:
+	linear-gradient(45deg, hsl(211, 99%, 52%) 0%, transparent 70%),
+	linear-gradient(135deg, hsl(227, 100%, 70%) 10%, transparent 80%),
+	linear-gradient(225deg, hsl(186, 90%, 79%) 10%, transparent 80%),
+	linear-gradient(315deg, hsl(199, 100%, 27%) 50%, transparent 100%);
+}
