@@ -1,19 +1,18 @@
 Nerd-Flat
 ====
-* Author: Victor Perin
+* Author: Nerd Hi-Tech
 * Author URL: http://www.nerdhitech.com.br
-* Contributer: @yoarts, @ghost, @ashfame, @kevinpapst, @abovethewater, @victor_perin
+* Contributer: @victor_perin, @yoarts, @ghost, @ashfame, @kevinpapst, @abovethewater
 * License: GNU General Public License v3.0
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Description
 ----
-Nerd-Flat is a WordPress Blog Theme designed by YoArts and modified by Victor Perin to focus more in pesonal blogs.
-I have developed it to focus in my own personal blog, but I want anyone could use it.
+Nerd_Flat is a fork from the beautiful Flat theme. It was maked to be more nerdy and pessoal. This theme is focused for personal blogs.
+
+I have modified it to focus in my own personal blog, but I want anyone could use it.
 
 If you want to help us develop this theme, fork it on github >> https://github.com/Nerd-HiTech/nerd_flat
-
-
 
 Features list
 ----
@@ -52,6 +51,7 @@ Icon Fonts: Font Awesome
 
 Contributers
 ----
+ - Victor Perin: http://github.com/victorperin
  - Teddy Rilliot: https://github.com/TeddyRilliot
  - Richard Alexander von Moltke Necochea: http://twitter.com/ravmn
  - Фарух Джапаркулов
@@ -62,6 +62,12 @@ Contributers
 
 Changelog
 ----
+1.3.8
+* Add: New picture of the server admin in the top of the name of the blog.
+* Add: pt_BR language
+* Fork: Nerd_Flat was forked from here from Flat.
+
+
 1.3.7
 * Tweak: Using Pagging instead of Next/Previous Posts button
 
