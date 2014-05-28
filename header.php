@@ -4,7 +4,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title><?php wp_title(''); ?></title>
+	<title><?php wp_title('');if(is_home()){echo ' - ';}bloginfo('name');  ?></title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	<?php wp_head(); ?>
@@ -17,6 +17,7 @@
 			<div id="secondary" class="col-lg-3">
 				<header id="masthead" class="site-header" role="banner">
 					<div class="hgroup">
+						
 						<?php flat_logo(); ?>
 					</div>
 					<button type="button" class="btn btn-link hidden-lg toggle-sidebar" data-toggle="offcanvas"><?php _e('<i class="fa fa-gear"></i>', 'flat'); ?></button>
