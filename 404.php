@@ -8,7 +8,7 @@
 		}
 	</style>
 	<div id="content" class="site-content" role="main">
-		<video autoplay loop style="min-width:100%;min-height:100%;width:auto;height:auto;position:fixed;left:0;top:0;z-index:-1;">
+		<video autoplay loop style="min-width:100%;min-height:100%;width:auto;height:auto;position:fixed;margin:auto;top:0;bottom:0;left:0;right:0;z-index:-1;">
 			<source src="http://camporez.com/assets/videos/luke.mp4" type="video/mp4">
 			Your browser does not support the video tag.
 		</video>
