@@ -17,7 +17,7 @@ function flat_setup() {
 
 	$custom_background_support = array(
 		'default-color'          => '',
-		'default-image'          => get_template_directory_uri() . '/assets/img/default-background.jpg',
+
 		'wp-head-callback'       => '_custom_background_cb',
 		'admin-head-callback'    => '',
 		'admin-preview-callback' => ''
@@ -140,3 +140,32 @@ endif;
 
 // Add Theme Customizer functionality.
 require get_template_directory() . '/inc/customizer.php';
+
+add_filter('widget_text', 'do_shortcode');
+
+
+
+
+
+
+
+//Making jQuery Google API
+function modify_jquery() {
+	if (!is_admin()) {
+		// comment out the next two lines to load the local copy of jQuery
+		wp_deregister_script('jquery');
+		wp_register_script('jquery', 'http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js', false, '2.1.1');
+		wp_enqueue_script('jquery');
+	}
+}
+add_action('init', 'modify_jquery');
+
+
+
+
+
+
+
+
+
+
