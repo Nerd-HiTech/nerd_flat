@@ -17,7 +17,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .sticky {}
 .bypostauthor {}
 
-.home img.avatar{
+.site-title img.avatar{
 height:200px;
 width:200px;
 margin: auto;
@@ -29,7 +29,7 @@ border-radius: 100px;
 -webkit-transition: all 0.2s;
 transition: all 0.2s;
 }
-.home img.avatar:hover{
+.site-title img.avatar:hover{
 box-shadow: -1px 2px 1px #000;
 border: 1px solid;
 transform:rotate(-4deg) scale(1.05);
