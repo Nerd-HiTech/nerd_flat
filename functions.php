@@ -161,8 +161,15 @@ function modify_jquery() {
 add_action('init', 'modify_jquery');
 
 
-
-
+function wp_title_changer( $title ) {
+	global $page, $paged;
+	if(is_feed()){return $title;}
+	$description=get_bloginfo('description');
+	$new_title=$title.get_bloginfo('name');
+	$new_title.=(2<=$paged||2<=$page)?' | '.sprintf( __('Page %s'),max($paged,$page)):'';
+	return $new_title;
+}
+add_filter('wp_title','wp_title_changer');
 
 
 
