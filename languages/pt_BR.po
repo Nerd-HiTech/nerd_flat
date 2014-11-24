@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Flat\n"
 "POT-Creation-Date: 2014-04-14 11:54+0700\n"
-"PO-Revision-Date: 2014-05-29 08:29-0300\n"
+"PO-Revision-Date: 2014-05-09 14:16-0300\n"
 "Last-Translator: Victor Perin <victor_perin@nerdhitech.com.br>\n"
 "Language-Team: Nerd Hi-Tech <nerdhitech@nerdhitech.com.br>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../404.php:3
 msgid "Not Found"
-msgstr "Página não Encontrada"
+msgstr "Não Encontrada"
 
 #: ../404.php:5
 msgid "It looks like nothing was found at this location. Maybe try a search?"
