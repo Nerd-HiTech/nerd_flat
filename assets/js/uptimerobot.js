@@ -15,7 +15,7 @@
 				$.getJSON("http://api.uptimerobot.com/getMonitors?apiKey=" +api_uptimerobot+"&format=json&noJsonCallback=1", function(json) {
 					for (var x in json.monitors.monitor) {
 						if(json.monitors.monitor[x].alltimeuptimeratio>danger_percentage){uptime_color = "default";}else{uptime_color = "danger"}
-						if(json.monitors.monitor[x].status==2){status_color="success";status="online";}else{status_color="danger";status="offiline";}
+						if(json.monitors.monitor[x].status==2){status_color="success";status="online";}else{status_color="danger";status="offline";}
 						if(json.monitors.monitor[x].status!=2 && json.monitors.monitor[x].alltimeuptimeratio<=danger_percentage) {row_color = "danger";}
 							else if(json.monitors.monitor[x].status!=2 || json.monitors.monitor[x].alltimeuptimeratio<=danger_percentage) {row_color = "warning";}
 							else{row_color = "success";}
